@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Shafina Na Farko</title>
+  <style>
+    body {
+      background-color: #f0f8ff;
+      font-family: sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    img {
+      width: 150px;
+      border-radius: 50%;
+    }
+
+    .about {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Sannu! Ni ne Mustapha Muhammad</h1>
+  <img src="myphoto.jpg" alt="Hotona">
+  
+  <div class="about">
+    <p>Ina matashi mai sha'awar koyon web development.</p>
+    <p>Ina amfani da TrebEdit wajen koyon HTML da CSS!</p>
+    <p>Zaku iya tuntubata a: <a href="mailto:mustapha@email.com">mustapha@email.com</a></p>
+  </div>
+
+</body>
+</html>
